@@ -17,6 +17,5 @@ Here you'll find:
 - Folder names reflect the project content.  
 ---
 Thanks for stopping by!  
-This repo is open for anyone who wants to see my mistakes and follow my learning journey.  
-My motivation: **keep learning without being afraid of mistakes**.  
+This repo is open for anyone who wants to see my mistakes and follow my learning journey.
 — Kerimcan
